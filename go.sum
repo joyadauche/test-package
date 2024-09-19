@@ -1,0 +1,8 @@
+github.com/joyadauche/test-dependency-one v0.0.0-20240919202935-3298877f459c h1:NhBjXMWHtUOpDnY4Xlafd2hR032xOMGmXxGPGKhH5Sw=
+github.com/joyadauche/test-dependency-one v0.0.0-20240919202935-3298877f459c/go.mod h1:OWrSf3qFcuSMc2oRAM/maJq8MS5Iq3TyxRVgsT4RanQ=
+github.com/joyadauche/test-dependency-one v0.0.0-20240919210514-3af90a73d7aa h1:t6Jo+D8IZqfVqqaSgnsmTdy2t/7y1khFC7lIXNK3ePM=
+github.com/joyadauche/test-dependency-one v0.0.0-20240919210514-3af90a73d7aa/go.mod h1:p29oFULsewfCPh4d0rCHXVkC5JBCXurUBCv6LDRxhZc=
+github.com/joyadauche/test-dependency-one v0.0.0-20240919212045-7f4333d9e4ae h1:3kzWYcWCoZZJb4GjOjkG/B8DMEbZt3XPAXciO0n3C+k=
+github.com/joyadauche/test-dependency-one v0.0.0-20240919212045-7f4333d9e4ae/go.mod h1:p29oFULsewfCPh4d0rCHXVkC5JBCXurUBCv6LDRxhZc=
+github.com/joyadauche/test-dependency-two v0.0.0-20240919205344-d02cdeab8de5 h1:EQpQRXalLr31dWYR0JTy/T1v0K3cEvW8jLmlG0Bf+H0=
+github.com/joyadauche/test-dependency-two v0.0.0-20240919205344-d02cdeab8de5/go.mod h1:JlZc04ITACLWNfHJNIEVtXMO6zyHxaJV0wVc6aqLbBY=
