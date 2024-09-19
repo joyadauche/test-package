@@ -7,7 +7,7 @@ import (
 )
 
 func main() {
-	fmt.Println("Hello G😀!")
+	fmt.Println("Hello G😀😎!")
 
 	a := puppy.Bark()
 	b := puppy.Barks()
